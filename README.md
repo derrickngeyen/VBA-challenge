@@ -1,5 +1,4 @@
-# VBA-Challenge
-VBA Homework - The VBA of Wall Street
+# VBA-Challenge 
 
 ## Background
 
@@ -7,7 +6,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+ ![Images/stockmarket.jpg]
 
 ## Instructions
 
@@ -25,13 +24,13 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * The result should look as follows.
 
-![moderate_solution](Images/moderate_solution.png)
+![Images/moderate_solution.png]
 
 ### CHALLENGES
 
 1. Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume". The solution will look as follows:
 
-![hard_solution](Images/hard_solution.png)
+![Images/hard_solution.png]
 
 2. Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
